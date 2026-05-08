@@ -21,8 +21,8 @@ It contains no application source code.
 
 ## Contributing content
 
-Pull requests are welcome for any content in this repository (wiki pages,
-templates, guides, etc.).  By submitting a PR you agree that your
+Pull requests are welcome for any content in this repository (issue templates,
+guides, and other in-repo files).  By submitting a PR you agree that your
 contribution is licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — the same
 license that covers everything else in this repo.
